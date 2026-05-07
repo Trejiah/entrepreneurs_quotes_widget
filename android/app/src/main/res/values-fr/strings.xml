@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrepreneurs Quotes Widget</string>
+
+    <!-- Widget picker labels (French). Mirrors ios/BusinessMindsetWidget/fr.lproj/Localizable.strings. -->
+    <string name="widget_label">Citation quotidienne</string>
+    <string name="widget_description">Personnalisez ce widget en le modifiant depuis les paramètres de widget dans l\'application.</string>
+
+    <!-- Prompts shown inside the widget. -->
+    <string name="widget_tap_to_configure">Touchez pour configurer ce widget</string>
+    <string name="widget_premium_required">Abonnez-vous pour débloquer vos citations</string>
+</resources>

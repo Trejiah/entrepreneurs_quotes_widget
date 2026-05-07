@@ -1,0 +1,7 @@
+{
+  "_comment": "TEMPLATE — copy to ios/firebase_app_id_file.json with your real values. Regenerate via `flutterfire configure`. The real file is gitignored.",
+  "file_generated_by": "FlutterFire CLI",
+  "purpose": "FirebaseAppID used by Firebase services",
+  "GOOGLE_APP_ID": "YOUR_IOS_APP_ID_HERE",
+  "BUNDLE_ID": "com.example.yourapp"
+}

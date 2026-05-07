@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrepreneurs Quotes Widget</string>
+
+    <!-- Widget picker labels (match ios/BusinessMindsetWidget/*.lproj/Localizable.strings). -->
+    <string name="widget_label">Motivational Quotes</string>
+    <string name="widget_description">Customize this widget from the widget settings inside the app.</string>
+
+    <!-- Prompts shown inside the widget, mirror of the iOS strings so the same
+         copy appears on both platforms. -->
+    <string name="widget_tap_to_configure">Tap to configure</string>
+    <string name="widget_premium_required">Subscribe to unlock your motivational quotes</string>
+</resources>
+

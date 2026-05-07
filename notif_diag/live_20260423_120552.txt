@@ -1,0 +1,223 @@
+04-23 12:08:31.722 D/AlarmManager( 1267): BT=2, AT=3, WE=299999, WL=224999, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:11:12.679 D/ActivityManager( 1267): Received BROADCAST intent 0x81d69 Key{broadcastIntent pkg=com.whatsapp intent=act=com.whatsapp.action.HOURLY_CRON pkg=com.whatsapp cmp=com.whatsapp/.alarmservice.AlarmBroadcastReceiver flags=0x4000000 u=0} requestCode=9 sent=0 from uid 1000
+04-23 12:14:11.833 D/AlarmManager( 1267): BT=2, AT=3, WE=299995, WL=224999, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:15:20.563 I/TRuntime.CctTransportBackend(15639): Making request to: https://firebaselogging.googleapis.com/v0cc/log/batch?format=json_proto3
+04-23 12:17:22.394 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 15836708]
+04-23 12:17:22.395 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=15836708, triggerAtTime=15416709, windowLength=419999
+04-23 12:17:22.402 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 15836716]
+04-23 12:17:22.403 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=15836716, triggerAtTime=15416717, windowLength=419999
+04-23 12:20:01.596 D/AlarmManager( 1267): BT=2, AT=3, WE=299999, WL=224999, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:24:01.191 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:24:02.407 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:24:02.416 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:24:19.284 D/AppListCacheProvider(15774): applyBatch end. operations : 0 ,Took 1 ms
+04-23 12:24:19.564 D/AppListCacheProvider(15774): applyBatch end. operations : 0 ,Took 1 ms
+04-23 12:24:36.230 I/DeviceIdleController( 1267): addPowerSaveWhitelistApps(name = [com.bakemono.businessmindset])
+04-23 12:24:54.151 I/flutter (15639): [IMPORTANT:flutter/shell/platform/android/android_context_vk_impeller.cc(62)] Using the Impeller rendering backend (Vulkan).
+04-23 12:24:54.179 I/flutter (15639): [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+04-23 12:24:54.315 I/flutter (15639): The Dart VM service is listening on http://127.0.0.1:34513/4tONALI-QLo=/
+04-23 12:24:59.686 I/flutter (15639): ✅ [Firebase] Initialised (attempt 1/5)
+04-23 12:24:59.751 I/flutter (15639): [TrialAB] A/B bucket already persisted → 3 days (prior install, no random)
+04-23 12:25:00.793 I/flutter (15639): 📦 [loadThemeList] Raw data: null
+04-23 12:25:01.951 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:01.951 I/flutter (15639): 📱 [ReviewPopup] App ouverte - Date: 2026-04-23
+04-23 12:25:01.951 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.008 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.008 I/flutter (15639): 🔄 [ReviewPopup] Counter reset on startup (new day)
+04-23 12:25:02.008 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.612 I/flutter (15639): [MixpanelService] ✅ Mixpanel initialized successfully
+04-23 12:25:02.617 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.617 I/flutter (15639): 📱 [MindsetPointsService] App started (no kill timestamp)
+04-23 12:25:02.617 I/flutter (15639):    - Time since last open increment: 1214s
+04-23 12:25:02.617 I/flutter (15639):    - Minimum required delay: 300s
+04-23 12:25:02.617 I/flutter (15639):    ✅ Open increment allowed (more than 300s elapsed)
+04-23 12:25:02.617 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.620 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.620 I/flutter (15639): increment open !
+04-23 12:25:02.620 I/flutter (15639): nouvelle valeur de openTodayPoints : 11
+04-23 12:25:02.620 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:02.880 I/flutter (15639): [WidgetTap] _loadPrefs end: openedFromWidget=false → _checkIfOpenedFromWidget
+04-23 12:25:02.883 I/flutter (15639): [WidgetTap] _checkIfOpenedFromWidget: openedFromWidget=false → skip (race: wait for tick listener)
+04-23 12:25:05.084 I/flutter (15639): [RemoteConfig] show_item = true
+04-23 12:25:07.010 I/flutter (15639): [TikTokService] ⏭️ Android: TikTok SDK init skipped (no attribution).
+04-23 12:25:10.179 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:10.179 I/flutter (15639): 📋 [Settings] Settings page loaded
+04-23 12:25:10.179 I/flutter (15639):    - premium: false
+04-23 12:25:10.179 I/flutter (15639):    - language: en
+04-23 12:25:10.179 I/flutter (15639):    - userName: Fred
+04-23 12:25:10.179 I/flutter (15639):    - themeIndex: 29
+04-23 12:25:10.180 I/flutter (15639):    - isCustomTheme: false
+04-23 12:25:10.180 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:11.282 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:11.282 I/flutter (15639): 📋 [Settings] Settings page loaded
+04-23 12:25:11.283 I/flutter (15639):    - premium: false
+04-23 12:25:11.283 I/flutter (15639):    - language: en
+04-23 12:25:11.283 I/flutter (15639):    - userName: Fred
+04-23 12:25:11.283 I/flutter (15639):    - themeIndex: 29
+04-23 12:25:11.283 I/flutter (15639):    - isCustomTheme: false
+04-23 12:25:11.283 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:13.332 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:13.332 I/flutter (15639): 📋 [NotificationPage] Loading
+04-23 12:25:13.332 I/flutter (15639):    - manyCount: 10
+04-23 12:25:13.333 I/flutter (15639):    - startHour: 12:15
+04-23 12:25:13.333 I/flutter (15639):    - endHour: 13:30
+04-23 12:25:13.337 I/flutter (15639):    - daySelected: [true, true, true, true, true, true, true]
+04-23 12:25:13.337 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:24.663 I/flutter (15639): Choisi : 2026-04-23 12:30:00.000 , Start
+04-23 12:25:27.666 I/flutter (15639): Choisi : 2026-04-23 01:30:00.000 , End
+04-23 12:25:29.303 I/flutter (15639): daySelected in callDays: [true, true, true, true, true, false, true]
+04-23 12:25:29.804 I/flutter (15639): daySelected in callDays: [true, true, true, true, true, false, false]
+04-23 12:25:30.272 I/flutter (15639): daySelected in callDays: [true, true, true, true, true, true, false]
+04-23 12:25:30.624 I/flutter (15639): daySelected in callDays: [true, true, true, true, true, true, true]
+04-23 12:25:39.649 I/flutter (15639): Choisi : 2026-04-23 13:30:00.000 , End
+04-23 12:25:40.704 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:40.704 I/flutter (15639): 📋 [NotificationPage] AVANT Sauvegarde
+04-23 12:25:40.705 I/flutter (15639):    - Heure actuelle: 2026-04-23 12:25:40.704840
+04-23 12:25:40.705 I/flutter (15639):    - manyCount: 10
+04-23 12:25:40.705 I/flutter (15639):    - startHour: 12:30 (format 24h)
+04-23 12:25:40.705 I/flutter (15639):    - endHour: 13:30 (format 24h)
+04-23 12:25:40.706 I/flutter (15639):    - daySelected: [true, true, true, true, true, true, true]
+04-23 12:25:40.706 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:40.793 I/flutter (15639): [NotificationService] Manual scheduling triggered
+04-23 12:25:41.315 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:41.315 I/flutter (15639): 📅 [NotificationService] Scheduling notifications
+04-23 12:25:41.317 I/flutter (15639):    - Heure actuelle: 2026-04-23 12:25
+04-23 12:25:41.317 I/flutter (15639):    - Computed slots: 10
+04-23 12:25:41.317 I/flutter (15639):      1. 12:30
+04-23 12:25:41.318 I/flutter (15639):      2. 12:37
+04-23 12:25:41.318 I/flutter (15639):      3. 12:43
+04-23 12:25:41.318 I/flutter (15639):      4. 12:50
+04-23 12:25:41.318 I/flutter (15639):      5. 12:57
+04-23 12:25:41.318 I/flutter (15639):      6. 13:03
+04-23 12:25:41.318 I/flutter (15639):      7. 13:10
+04-23 12:25:41.318 I/flutter (15639):      8. 13:17
+04-23 12:25:41.318 I/flutter (15639):      9. 13:23
+04-23 12:25:41.318 I/flutter (15639):      10. 13:30
+04-23 12:25:41.318 I/flutter (15639):    - Computed notifications: 70
+04-23 12:25:41.318 I/flutter (15639):    - Scheduled notifications: 70
+04-23 12:25:41.319 I/flutter (15639):      1. 2026-04-23 12:30
+04-23 12:25:41.319 I/flutter (15639):      2. 2026-04-23 12:37
+04-23 12:25:41.319 I/flutter (15639):      3. 2026-04-23 12:43
+04-23 12:25:41.319 I/flutter (15639):      4. 2026-04-23 12:50
+04-23 12:25:41.319 I/flutter (15639):      5. 2026-04-23 12:57
+04-23 12:25:41.319 I/flutter (15639):      6. 2026-04-23 13:03
+04-23 12:25:41.319 I/flutter (15639):      7. 2026-04-23 13:10
+04-23 12:25:41.319 I/flutter (15639):      8. 2026-04-23 13:17
+04-23 12:25:41.320 I/flutter (15639):      9. 2026-04-23 13:23
+04-23 12:25:41.320 I/flutter (15639):      10. 2026-04-23 13:30
+04-23 12:25:41.320 I/flutter (15639):      11. 2026-04-24 12:30
+04-23 12:25:41.320 I/flutter (15639):      12. 2026-04-24 12:37
+04-23 12:25:41.320 I/flutter (15639):      13. 2026-04-24 12:43
+04-23 12:25:41.320 I/flutter (15639):      14. 2026-04-24 12:50
+04-23 12:25:41.320 I/flutter (15639):      15. 2026-04-24 12:57
+04-23 12:25:41.320 I/flutter (15639):      16. 2026-04-24 13:03
+04-23 12:25:41.320 I/flutter (15639):      17. 2026-04-24 13:10
+04-23 12:25:41.320 I/flutter (15639):      18. 2026-04-24 13:17
+04-23 12:25:41.320 I/flutter (15639):      19. 2026-04-24 13:23
+04-23 12:25:41.320 I/flutter (15639):      20. 2026-04-24 13:30
+04-23 12:25:41.321 I/flutter (15639):      ... and 50 more
+04-23 12:25:41.321 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:41.382 I/flutter (15639): 🔍 [NotificationService] Forced quotes skipped (ignoreForcedQuotes=true)
+04-23 12:25:41.525 I/flutter (15639): ✅ [NotificationService] Notification 1 programmée: 2026-04-23 12:30
+04-23 12:25:41.568 I/flutter (15639): ✅ [NotificationService] Notification 2 programmée: 2026-04-23 12:37
+04-23 12:25:41.619 I/flutter (15639): ✅ [NotificationService] Notification 3 programmée: 2026-04-23 12:43
+04-23 12:25:47.325 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:47.325 I/flutter (15639): 🔔 [NotificationService] Notification status
+04-23 12:25:47.325 I/flutter (15639):    - Permissions Android: ✅ Activées
+04-23 12:25:47.326 I/flutter (15639):    - Notifications en attente: 70
+04-23 12:25:47.326 I/flutter (15639):    - Prochaines notifications:
+04-23 12:25:47.327 I/flutter (15639):      1. ID: 1776933001, Body: I rise stronger after every challenge....
+04-23 12:25:47.327 I/flutter (15639):      2. ID: 1776933422, Body: If you want more, become more....
+04-23 12:25:47.327 I/flutter (15639):      3. ID: 1776933783, Body: A life driven by vision feels demanding, but a lif...
+04-23 12:25:47.327 I/flutter (15639):      4. ID: 1776934204, Body: Grit is living life like it's a marathon, not a sp...
+04-23 12:25:47.327 I/flutter (15639):      5. ID: 1776934617, Body: Honor yourself by choosing growth....
+04-23 12:25:47.327 I/flutter (15639):      6. ID: 1776934978, Body: When everything seem to be going against you, reme...
+04-23 12:25:47.327 I/flutter (15639):      7. ID: 1776935407, Body: Remembering that you are going to die is the best ...
+04-23 12:25:47.327 I/flutter (15639):      8. ID: 1776935812, Body: The right habits compound faster than the right in...
+04-23 12:25:47.327 I/flutter (15639):      9. ID: 1776936189, Body: You don't rise because you're fearless; you rise b...
+04-23 12:25:47.327 I/flutter (15639):      10. ID: 1776936594, Body: I bet on myself. Always....
+04-23 12:25:47.327 I/flutter (15639):      11. ID: 1777019395, Body: The few who do are the envy of the many who only w...
+04-23 12:25:47.327 I/flutter (15639):      12. ID: 1777019808, Body: If everybody is doing it one way, there's a good c...
+04-23 12:25:47.328 I/flutter (15639):      13. ID: 1777020185, Body: Don’t count on motivation. Count on discipline....
+04-23 12:25:47.328 I/flutter (15639):      14. ID: 1777020598, Body: It is impossible to have a great life unless it is...
+04-23 12:25:47.328 I/flutter (15639):      15. ID: 1777021011, Body: Be the leader your younger self dreamed of....
+04-23 12:25:47.328 I/flutter (15639):      ... and 65 more
+04-23 12:25:47.328 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:47.335 I/flutter (15639): [MixpanelService] 📊 track("[Notif] Save", {source: notification_page})
+04-23 12:25:47.335 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:25:47.335 I/flutter (15639): 📋 [NotificationPage] AFTER save and scheduling
+04-23 12:25:47.335 I/flutter (15639):    - Notifications scheduled successfully
+04-23 12:25:47.335 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:26:01.646 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:26:01.647 I/flutter (15639): 📱 [MindsetPointsService] App went to background
+04-23 12:26:01.647 I/flutter (15639): ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+04-23 12:28:46.626 D/AlarmManager( 1267): BT=2, AT=3, WE=299998, WL=224999, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:28:46.766 I/AlarmManager( 2065): set [name: SystemMemoryCache type: 2 triggerAtMillis: 315375681081 windowMillis: -1 intervalMillis: 0]
+04-23 12:30:12.900 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 16607215]
+04-23 12:30:12.901 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=16607215, triggerAtTime=16187216, windowLength=419999
+04-23 12:30:12.907 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 16607222]
+04-23 12:30:12.908 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=16607222, triggerAtTime=16187223, windowLength=419999
+04-23 12:30:24.891 I/SimpleEventLog( 2131): PreciseAlarmManager Read written lines: 503(5 ms)
+04-23 12:30:57.312 I/TRuntime.CctTransportBackend(16246): Making request to: https://firebaselogging.googleapis.com/v0cc/log/batch?format=json_proto3
+04-23 12:33:35.441 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 16809756]
+04-23 12:33:35.442 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=16809756, triggerAtTime=16389757, windowLength=419999
+04-23 12:33:35.507 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 16809822]
+04-23 12:33:35.508 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=16809822, triggerAtTime=16389823, windowLength=419999
+04-23 12:33:35.517 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 16089829]
+04-23 12:33:41.220 I/NotificationManager(16312): com.zhiliaoapp.musically: notify(1271130844, app_notify_ame, Notification(channel=recommend_video_push_associated_4 shortcut=null contentView=com.zhiliaoapp.musically/0x7f0e10d7 vibrate=null sound=null tick defaults=0x0 flags=0x11 color=0x00000000 groupKey=android_exclusive_group_7629325217214647585 actions=2 vis=PRIVATE semFlags=0x0 semPriority=0 semMissedCount=0)) as user
+04-23 12:36:02.742 D/PowerManagerService( 1267): handleSandman : startDreaming: false  (canDreamLocked: false  canDozeLocked: false)  groupId=0
+04-23 12:36:02.904 D/KeyguardWallpaperController( 1706): onTransitionAod: mDozeParameters.shouldControlScreenOff() = false
+04-23 12:36:02.917 D/DozeServiceHost( 1706): updateDozing dozing = false / dozingRequested = false / state = SHADE mode = 0
+04-23 12:36:02.970 I/DigitalHorizontalClockView_LOCK_SCREEN_2@125( 1706): updatePaletteItemTransition : paletteItem = SOLID color : FF35FFEB, animation = false, dozeAmount = 0.0
+04-23 12:36:03.074 I/AODNotificationManager( 1706): updateNotification() 
+04-23 12:36:03.559 D/PowerManagerService( 1267): handleSandman : startDreaming: true  (canDreamLocked: false  canDozeLocked: true)  groupId=0
+04-23 12:36:03.571 I/DreamController( 1267): Starting dream: name=ComponentInfo{com.android.systemui/com.android.systemui.doze.DozeService}, isPreviewMode=false, canDoze=true, userId=0, reason='power manager request'
+04-23 12:36:03.602 I/DozeService( 1706): onCreate: com.android.systemui.doze.DozeService@201d91e
+04-23 12:36:03.648 D/DozeService( 1706): onPluginConnected: PluginClockPack plugin=com.samsung.android.app.clockpack.plugin.PluginClockPackImpl@16ab215
+04-23 12:36:03.649 D/DozeService( 1706): onDreamingStarted: 
+04-23 12:36:03.654 D/PowerManagerService( 1267): [api] acquire WakeLock DRAW_WAKE_LOCK                 'Doze' (uid=10046 pid=1706 displayId=-1 lock=b1b535c)
+04-23 12:36:03.657 I/DozeMachine( 1706): transition: old=UNINITIALIZED req=INITIALIZED new=INITIALIZED
+04-23 12:36:03.658 D/DozeServiceHost( 1706): startDozing
+04-23 12:36:03.658 D/DozeServiceHost( 1706): updateDozing dozing = false / dozingRequested = true / state = SHADE mode = 0
+04-23 12:36:03.691 D/DozeServiceHost( 1706): updateDozing dozing = true / dozingRequested = true / state = KEYGUARD mode = 0
+04-23 12:36:03.734 I/DigitalHorizontalClockView_LOCK_SCREEN_2@125( 1706): setColorThemeAdaptiveColorInternal : colorThemeColor = #ff35ffeb, AODColorThemeColor = #ff9ec9cc, animation = false, dozing = true, dozeAmount = 1.0, mIsWhiteWallpaper = false
+04-23 12:36:03.734 I/DigitalHorizontalClockView_LOCK_SCREEN_2@125( 1706): updatePaletteItemTransition : paletteItem = SOLID color : FF9EC9CC, animation = false, dozeAmount = 1.0
+04-23 12:36:03.755 D/DozeServiceHost( 1706): updateDozing dozing = true / dozingRequested = true / state = KEYGUARD mode = 0
+04-23 12:36:03.803 I/InsetsController( 1706): setRequestedVisibleTypes: visible=false, mask=navigationBars, host=NotificationShade, from=android.view.InsetsController.controlAnimationUnchecked:1445 android.view.InsetsController.applyAnimation:2005 android.view.InsetsController.applyAnimation:1968 android.view.InsetsController.hide:1403 android.view.InsetsController.hide:1342 com.android.systemui.statusbar.phone.StatusBarKeyguardViewManager.updateNavigationBarVisibility:90 com.android.systemui.statusbar.phone.StatusBarKeyguardViewManager.updateStates:112 com.android.systemui.statusbar.phone.StatusBarKeyguardViewManager.onDozingChanged:26 com.android.systemui.statusbar.StatusBarStateControllerImpl.setIsDozing:138 com.android.systemui.statusbar.phone.DozeServiceHost.updateDozing:213 
+04-23 12:36:03.824 D/LockscreenNotificationManager( 1706): BarState updated : 1
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeUi.transitionTo:128
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.AODUi.transitionTo:1
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeMachine.transitionTo:686
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeMachine.requestState:10
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeMachine.requestState:2
+04-23 12:36:03.855 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeService.onDreamingStarted:77
+04-23 12:36:03.862 D/SecPanelLogger( 1706):    com.android.systemui.doze.DozeUi.transitionTo:128
+04-23 12:36:03.862 D/SecPanelLogger( 1706):    com.android.systemui.doze.AODUi.transitionTo:1
+04-23 12:36:03.862 D/SecPanelLogger( 1706):    com.android.systemui.doze.DozeMachine.transitionTo:686
+04-23 12:36:03.862 D/SecPanelLogger( 1706):    com.android.systemui.doze.DozeMachine.requestState:10
+04-23 12:36:03.864 D/SecPanelLogger( 1706):  - com.android.systemui.doze.DozeUi.transitionTo:128
+04-23 12:36:03.864 D/SecPanelLogger( 1706):  - com.android.systemui.doze.AODUi.transitionTo:1
+04-23 12:36:03.870 D/DozeScreenState( 1706): transitionTo INITIALIZED shouldWaitForTransitionToAodUi : false
+04-23 12:36:03.870 D/DozeScreenState( 1706): applyScreenState(1, shouldWaitForTransitionToAodUi = false)
+04-23 12:36:03.874 I/DozeMachine( 1706): transition: old=INITIALIZED req=DOZE new=DOZE
+04-23 12:36:03.876 D/PowerManagerService( 1267): [api] setDozeOverrideFromDreamManager: screenState: OFF mode: 0x0 screenBrightness: -1 shouldWait: false
+04-23 12:36:03.876 D/PowerManagerService( 1267): [api] acquire WakeLock DOZE_WAKE_LOCK                 'dream:doze' (uid=1000 pid=1267 displayId=-1 lock=7e75f14)
+04-23 12:36:03.880 D/DozeService( 1706): startClockPack: mClockPackPlugin=com.samsung.android.app.clockpack.plugin.PluginClockPackImpl@16ab215
+04-23 12:36:03.889 D/AODManagerService( 1267): registerAODDozeCallbackInternal
+04-23 12:36:04.060 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:36:04.109 I/AODNotificationManager( 1706): lockscreenNotificationTypeChanged() 1
+04-23 12:36:04.114 D/DozeScreenState( 1706): applyScreenState(1, shouldWaitForTransitionToAodUi = false)
+04-23 12:36:04.203 I/AODNotificationManager( 1706): updateNotification() 
+04-23 12:36:04.251 D/PowerManagerService( 1267): [api] release WakeLock DRAW_WAKE_LOCK                 'Doze' ACQ=-594ms (uid=10046 pid=1706 displayId=-1 lock=b1b535c)
+04-23 12:36:04.292 I/AODNotificationManager( 1706): lockscreenNotificationTypeChanged() 1
+04-23 12:36:07.899 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:36:07.900 D/SecPanelLogger( 1706):  - com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:36:08.084 D/SecPanelLogger( 1706):    com.android.systemui.shade.NotificationShadeWindowControllerImpl.batchApplyWindowLayoutParams:7
+04-23 12:36:08.392 I/AODNotificationManager( 1706): updateNotification() 
+04-23 12:39:09.032 D/AlarmManager( 1267): BT=2, AT=3, WE=299999, WL=224999, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:45:28.888 D/AlarmManager( 1267): BT=2, AT=3, WE=299999, WL=225000, uid=10052, pkg=com.facebook.services, action=com.facebook.rti.fbns.intent.ACTION_ALARM.FBNS_SCHEDULED_REDELIVERY
+04-23 12:45:28.927 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 16743242]
+04-23 12:45:28.928 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=16743242, triggerAtTime=16713243, windowLength=29999
+04-23 12:45:29.502 I/AlarmManager( 2065): setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 17523816]
+04-23 12:45:29.503 D/AlarmManager( 1267): force change alarm method to setWindow() callingUid=10167, sourcePackage=com.google.android.gms, action=com.google.android.gms.gcm.HEARTBEAT_ALARM, origTriggerAtTime=17523816, triggerAtTime=17103817, windowLength=419999
+04-23 12:50:25.210 D/ActivityManager( 1267): Received BROADCAST intent 0x45ecb0c Key{broadcastIntent pkg=com.sec.imsservice intent=act=com.sec.internal.ims.imsservice.alarmmanager pkg=com.sec.imsservice flags=0x2000000 u=0} requestCode=0 sent=0 from uid 1000

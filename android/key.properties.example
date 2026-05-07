@@ -1,0 +1,17 @@
+# Copy this file to `key.properties` and fill in your real values.
+# `key.properties` is gitignored — never commit it.
+#
+# How to generate a release keystore (one-shot, store the .jks somewhere safe
+# and back it up):
+#
+#   keytool -genkey -v \
+#     -keystore ~/keys/businessmindset-upload-keystore.jks \
+#     -keyalg RSA -keysize 2048 -validity 10000 \
+#     -alias upload
+#
+# Then point storeFile to that absolute path (NOT a path inside the repo).
+
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=upload
+storeFile=/absolute/path/to/businessmindset-upload-keystore.jks

@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Runner (Français)
+
+  Created for Business Mindset
+*/
+
+/* Photo Library permission */
+"NSPhotoLibraryAddUsageDescription" = "Cette application a besoin d'accéder à votre galerie photos pour sauvegarder les images de citations.";

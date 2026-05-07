@@ -1,0 +1,21 @@
+/* Widget configuration title (English) */
+"widget_display_name" = "Motivational Quotes";
+
+/* Widget configuration subtitle (English) */
+"widget_description" = "Customize this widget from the widget settings inside the app.";
+
+/* On-widget prompt when not yet configured (English) */
+"widget_tap_to_configure" = "Tap to configure";
+
+/* (Optional) On-widget prompt subtitle (English) */
+"widget_tap_to_configure_subtitle" = "Open the app to customize this widget in the widget settings.";
+
+/* Home screen widget message when user is not premium */
+"widget_premium_required" = "Subscribe to unlock your motivational quotes";
+
+/* Lock screen rectangular widget message when user is not premium */
+"widget_premium_required_short" = "Subscribe to unlock";
+
+/* Lock screen inline widget message when user is not premium */
+"widget_premium_required_inline" = "Subscribe to unlock";
+

@@ -1,0 +1,20 @@
+/* Titre de la configuration du widget (Français) */
+"widget_display_name" = "Citation quotidienne";
+
+/* Sous-titre de la configuration du widget (Français) */
+"widget_description" = "Personnalisez ce widget en le modifiant depuis les paramètres de widget dans l'application.";
+
+/* Texte d'invite dans le widget quand il n'est pas encore configuré (Français) */
+"widget_tap_to_configure" = "Touchez pour configurer ce widget";
+
+/* (Optionnel) Sous-titre d'invite dans le widget (Français) */
+"widget_tap_to_configure_subtitle" = "Personnalisez ce widget depuis les paramètres de widget dans l'application.";
+
+/* Widget home screen : message quand l'utilisateur n'est pas premium */
+"widget_premium_required" = "Abonnez-vous pour débloquer vos citations";
+
+/* Widget lock screen rectangulaire : message quand l'utilisateur n'est pas premium */
+"widget_premium_required_short" = "Abonnez-vous pour débloquer";
+
+/* Widget lock screen inline : message quand l'utilisateur n'est pas premium */
+"widget_premium_required_inline" = "Abonnez-vous";

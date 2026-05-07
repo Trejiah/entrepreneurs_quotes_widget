@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1f1f1f</color>
+    <!-- Background applied during the brief window between the system splash
+         screen being dismissed and Flutter drawing its first frame. Must
+         match windowSplashScreenBackground in values-v31/styles.xml to avoid
+         a visible flash. -->
+    <color name="splash_background">#1f1f1f</color>
+</resources>

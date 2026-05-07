@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>Business Mindset Widget</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleName</key>
+    <string>BusinessMindsetWidgetExtension</string>
+    <key>CFBundlePackageType</key>
+    <string>XPC!</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.10.0</string>
+    <key>CFBundleVersion</key>
+    <string>3</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+
+
+    <key>NSExtension</key>
+    <dict>
+        <key>NSExtensionPointIdentifier</key>
+        <string>com.apple.widgetkit-extension</string>
+    </dict>
+
+    <key>NSSupportsLockScreenWidgets</key>
+    <true/>
+
+    <key>UIAppFonts</key>
+    <array>
+        <string>AbhayaLibre-Regular.ttf</string>
+        <string>Allerta-Regular.ttf</string>
+        <string>BebasNeue-Regular.ttf</string>
+        <string>BodoniModa_18pt-Regular.ttf</string>
+        <string>CormorantGaramond-Regular.ttf</string>
+        <string>DidactGothic-Regular.ttf</string>
+        <string>EBGaramond-Regular.ttf</string>
+        <string>InterTight-Italic.ttf</string>
+        <string>InterTight.ttf</string>
+        <string>JosefinSans-Regular.ttf</string>
+        <string>JosefinSlab-Regular.ttf</string>
+        <string>Lato-Regular.ttf</string>
+        <string>LibreBaskerville-Regular.ttf</string>
+        <string>Lustria-Regular.ttf</string>
+        <string>Montserrat-Regular.ttf</string>
+        <string>Oranienbaum-Regular.ttf</string>
+        <string>Oswald-Regular.ttf</string>
+        <string>Ovo-Regular.ttf</string>
+        <string>PlayfairDisplay-Regular.ttf</string>
+        <string>Quicksand-Regular.ttf</string>
+        <string>Raleway-Regular.ttf</string>
+        <string>Sanchez-Regular.ttf</string>
+        <string>SourceSansPro-Regular.ttf</string>
+        <string>Volkhov-Regular.ttf</string>
+        <string>YesevaOne.ttf</string>
+    </array>
+</dict>
+</plist>
+

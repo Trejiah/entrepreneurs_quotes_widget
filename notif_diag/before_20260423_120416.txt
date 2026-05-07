@@ -1,0 +1,28 @@
+═══ DATE SYSTÈME ═══
+Thu Apr 23 12:04:16 +04 2026
+
+═══ DOZE / DEVICEIDLE STATE ═══
+  mForceIdle=false
+  mState=ACTIVE mLightState=ACTIVE
+
+═══ BATTERY OPTIMIZATION (app) ═══
+(app absente de la whitelist)
+
+═══ ALARMES PENDANTES (app) ═══
+
+═══ CANAL DE NOTIFICATION ═══
+        NotificationChannel{mId='daily_quote_channel_v2', mName=Daily Quote Reminders, mDescription=hasDescription , mImportance=5, mBypassDnd=false, mLockscreenVisibility=-1000, mSound=content://settings/system/notification_sound, mLights=false, mLightColor=0, mVibration=null, mUserLockedFields=0, mUserVisibleTaskShown=false, mVibrationEnabled=true, mShowBadge=true, mDeleted=false, mDeletedTimeMs=-1, mGroup='null', mAudioAttributes=AudioAttributes: usage=USAGE_NOTIFICATION content=CONTENT_TYPE_UNKNOWN flags=0x800 tags= bundle=null, mBlockableSystem=false, mAllowBubbles=-1, mImportanceLockedByOEM=false, mImportanceLockedDefaultApp=false, mOriginalImp=5, mParent=null, mConversationId=null, mDemoted=false, mImportantConvo=false, mSoundMissingReason=0}
+      AppSettings: com.android.credentialmanager (10268)
+      AppSettings: com.sec.android.RilServiceModeApp (1001) fixedImportance=true
+      AppSettings: com.samsung.android.scs (10078)
+      AppSettings: com.google.mainline.adservices (10180)
+      AppSettings: com.android.htmlviewer (10138)
+      AppSettings: com.google.android.apps.docs (10216) importance=NONE userSet=false
+        NotificationChannel{mId='SCAN_DOWNLOADS', mName=Analyser les téléchargements, mDescription=, mImportance=2, mBypassDnd=false, mLockscreenVisibility=-1000, mSound=content://settings/system/notification_sound, mLights=false, mLightColor=0, mVibration=null, mUserLockedFields=0, mUserVisibleTaskShown=false, mVibrationEnabled=false, mShowBadge=true, mDeleted=false, mDeletedTimeMs=-1, mGroup='null', mAudioAttributes=AudioAttributes: usage=USAGE_NOTIFICATION content=CONTENT_TYPE_SONIFICATION flags=0x800 tags= bundle=null, mBlockableSystem=false, mAllowBubbles=-1, mImportanceLockedByOEM=false, mImportanceLockedDefaultApp=false, mOriginalImp=2, mParent=null, mConversationId=null, mDemoted=false, mImportantConvo=false, mSoundMissingReason=0}
+        NotificationChannel{mId='115087804881017334388:CONTENT_SYNC', mName=Importations et téléchargements, mDescription=, mImportance=2, mBypassDnd=false, mLockscreenVisibility=-1000, mSound=content://settings/system/notification_sound, mLights=false, mLightColor=0, mVibration=null, mUserLockedFields=0, mUserVisibleTaskShown=false, mVibrationEnabled=false, mShowBadge=true, mDeleted=false, mDeletedTimeMs=-1, mGroup='youtal...', mAudioAttributes=AudioAttributes: usage=USAGE_NOTIFICATION content=CONTENT_TYPE_SONIFICATION flags=0x800 tags= bundle=null, mBlockableSystem=false, mAllowBubbles=-1, mImportanceLockedByOEM=false, mImportanceLockedDefaultApp=false, mOriginalImp=2, mParent=null, mConversationId=null, mDemoted=false, mImportantConvo=false, mSoundMissingReason=0}
+        NotificationChannel{mId='100030456954516182820:CONTENT_SYNC', mName=Importations et téléchargements, mDescription=, mImportance=2, mBypassDnd=false, mLockscreenVisibility=-1000, mSound=content://settings/system/notification_sound, mLights=false, mLightColor=0, mVibration=null, mUserLockedFields=0, mUserVisibleTaskShown=true, mVibrationEnabled=false, mShowBadge=true, mDeleted=false, mDeletedTimeMs=-1, mGroup='sylvai...', mAudioAttributes=AudioAttributes: usage=USAGE_NOTIFICATION content=CONTENT_TYPE_SONIFICATION flags=0x800 tags= bundle=null, mBlockableSystem=false, mAllowBubbles=-1, mImportanceLockedByOEM=false, mImportanceLockedDefaultApp=false, mOriginalImp=2, mParent=null, mConversationId=null, mDemoted=false, mImportantConvo=false, mSoundMissingReason=0}
+        NotificationChannel{mId='CONTENT_SYNC_OTHER', mName=Synchronisation des modifications apportées aux fichiers, mDescription=, mImportance=2, mBypassDnd=false, mLockscreenVisibility=-1000, mSound=content://settings/system/notification_sound, mLights=false, mLightColor=0, mVibration=null, mUserLockedFields=0, mUserVisibleTaskShown=true, mVibrationEnabled=false, mShowBadge=false, mDeleted=false, mDeletedTimeMs=-1, mGroup='null', mAudioAttributes=AudioAttributes: usage=USAGE_NOTIFICATION content=CONTENT_TYPE_SONIFICATION flags=0x800 tags= bundle=null, mBlockableSystem=false, mAllowBubbles=-1, mImportanceLockedByOEM=false, mImportanceLockedDefaultApp=false, mOriginalImp=2, mParent=null, mConversationId=null, mDemoted=false, mImportantConvo=false, mSoundMissingReason=0}
+
+═══ ÉTAT GLOBAL NOTIFICATIONS APP ═══
+
+═══ FLUTTER LOCAL NOTIFICATIONS (logcat récent) ═══

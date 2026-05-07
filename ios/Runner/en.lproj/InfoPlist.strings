@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Runner (English)
+
+  Created for Business Mindset
+*/
+
+/* Photo Library permission */
+"NSPhotoLibraryAddUsageDescription" = "This app needs access to your photo library to save quote images.";

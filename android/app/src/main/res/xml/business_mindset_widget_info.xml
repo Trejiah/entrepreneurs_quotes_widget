@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Provider metadata for the classic RemoteViews home-screen widget.
+
+  The widget mirrors the iOS `systemMedium` family (4x2 cells ≈ 320dp×155dp)
+  and we deliberately pin the size on Android to match iOS:
+    - no vertical resize (the quote layout is designed around a fixed
+      2-row footprint, same as iOS).
+    - no horizontal resize either; the widget always occupies the maximum
+      horizontal span a medium widget can take in the launcher grid.
+
+  The `previewLayout` points to a static XML mirror of the iOS preview
+  (dark rounded surface, "Tap to configure" prompt, share/favorite icons
+  at the bottom). Using a real preview — instead of the generic Glance
+  loading spinner — avoids a blank placeholder in the widget picker.
+-->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_home"
+    android:previewLayout="@layout/widget_preview"
+    android:minWidth="250dp"
+    android:minHeight="110dp"
+    android:minResizeWidth="250dp"
+    android:minResizeHeight="110dp"
+    android:maxResizeWidth="400dp"
+    android:maxResizeHeight="180dp"
+    android:targetCellWidth="4"
+    android:targetCellHeight="2"
+    android:resizeMode="none"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen|keyguard"/>
