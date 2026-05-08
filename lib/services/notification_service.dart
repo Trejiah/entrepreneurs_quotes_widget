@@ -4,9 +4,9 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_timezone/flutter_timezone.dart';
+import 'package:permission_handler/permission_handler.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/data/latest.dart' as tz;
 import 'package:timezone/timezone.dart' as tz;
@@ -165,6 +165,24 @@ class NotificationService {
   Future<bool> _requestUserNotificationPermissionsInternal() async {
     if (!_initialized) {
       await init();
+    }
+
+    if (defaultTargetPlatform == TargetPlatform.android) {
+      try {
+        final status = await Permission.notification.status;
+        if (status.isPermanentlyDenied || status.isRestricted) {
+          if (kDebugMode) {
+            debugPrint(
+              '🔔 [NotificationService] notification blocked (permanent/restricted): $status',
+            );
+          }
+          return false;
+        }
+      } catch (e, stack) {
+        if (kDebugMode) {
+          debugPrint('🔔 [NotificationService] Permission.notification.status failed: $e\n$stack');
+        }
+      }
     }
 
     if (defaultTargetPlatform == TargetPlatform.iOS) {
